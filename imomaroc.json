@@ -1,0 +1,132 @@
+{
+  "ventes": [
+    {
+      "client": "Client1",
+      "ville": "Casablanca",
+      "revenus": 150000,
+      "appartements": [
+        {
+          "adresse": "Adresse1",
+          "nombre_pieces": 3,
+          "prix": 100000
+        },
+        {
+          "adresse": "Adresse2",
+          "nombre_pieces": 2,
+          "prix": 50000
+        }
+      ]
+    },
+    {
+      "client": "Client2",
+      "ville": "Rabat",
+      "revenus": 120000,
+      "appartements": [
+        {
+          "adresse": "Adresse3",
+          "nombre_pieces": 4,
+          "prix": 80000
+        },
+        {
+          "adresse": "Adresse4",
+          "nombre_pieces": 1,
+          "prix": 40000
+        }
+      ]
+    },
+    {
+      "client": "Client3",
+      "ville": "Rabat",
+      "revenus": 90000,
+      "appartements": [
+        {
+          "adresse": "Adresse5",
+          "nombre_pieces": 2,
+          "prix": 60000
+        }
+      ]
+    },
+    {
+      "client": "Client4",
+      "ville": "Mohammedia",
+      "revenus": 180000,
+      "appartements": [
+        {
+          "adresse": "Adresse6",
+          "nombre_pieces": 5,
+          "prix": 120000
+        }
+      ]
+    },
+    {
+      "client": "Client5",
+      "ville": "Casablanca",
+      "revenus": 200000,
+      "appartements": [
+        {
+          "adresse": "Adresse7",
+          "nombre_pieces": 3,
+          "prix": 150000
+        }
+      ]
+    },
+    {
+      "client": "Client6",
+      "ville": "Rabat",
+      "revenus": 160000,
+      "appartements": [
+        {
+          "adresse": "Adresse8",
+          "nombre_pieces": 2,
+          "prix": 90000
+        }
+      ]
+    },
+    {
+      "client": "Client7",
+      "ville": "Mohammedia",
+      "revenus": 250000,
+      "appartements": [
+        {
+          "adresse": "Adresse9",
+          "nombre_pieces": 4,
+          "prix": 200000
+        }
+      ]
+    },
+    {
+      "client": "Client8",
+      "ville": "Fes",
+      "revenus": 130000,
+      "appartements": [
+        {
+          "adresse": "Adresse10",
+          "nombre_pieces": 3,
+          "prix": 80000
+        },
+        {
+          "adresse": "Adresse11",
+          "nombre_pieces": 2,
+          "prix": 50000
+        }
+      ]
+    },
+    {
+      "client": "Client9",
+      "ville": "Marrakech",
+      "revenus": 220000,
+      "appartements": [
+        {
+          "adresse": "Adresse12",
+          "nombre_pieces": 4,
+          "prix": 150000
+        },
+        {
+          "adresse": "Adresse13",
+          "nombre_pieces": 1,
+          "prix": 70000
+        }
+      ]
+    }
+  ]
+}

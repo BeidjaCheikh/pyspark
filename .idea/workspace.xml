@@ -5,12 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a26162d2-bfd6-4b19-b245-50b1f47646d3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/REDMEA.MD" beforeDir="false" afterPath="$PROJECT_DIR$/REDMEA.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imomaroc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/REDMEA.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1702053755507</updated>
       <workItem from="1702053756701" duration="24000" />
-      <workItem from="1702054398294" duration="787000" />
+      <workItem from="1702054398294" duration="4102000" />
     </task>
     <servers />
   </component>

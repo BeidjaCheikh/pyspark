@@ -1,5 +1,8 @@
 # Big Data Pyspark
+[Partie 1](#partie1)
+[Partie 2](#partie2)
 
+## partie1
 ```
 TP: pyspark
 ```
@@ -38,3 +41,28 @@ show()
   >>> dfVols.show() 
 ```
 ![image](https://github.com/BeidjaCheikh/pyspark/blob/master/images/img6.png)
+
+## partie2
+### II. Traitement de données stockées dans un fichier Json.
+* Démarrage de pyspark
+![image](https://github.com/BeidjaCheikh/pyspark/blob/master/images/img7.png)
+
+* 1. Afficher les deux première villes ou l’entreprise a réalisé plus de ventes (en terme de revenues).
+```
+  schow()
+```
+![image](https://github.com/BeidjaCheikh/pyspark/blob/master/images/img8.png)
+
+* 2. Afficher la liste des clients qui possèdent plus qu’un appartement à rabat.
+
+```
+  schow()
+```
+![image](https://github.com/BeidjaCheikh/pyspark/blob/master/images/img9.png)
+
+* 3. Afficher le nombre d’appartements vendues à Casablanca.
+
+```
+  schow()
+```
+![image](https://github.com/BeidjaCheikh/pyspark/blob/master/images/img10.png)
